@@ -1,8 +1,10 @@
 # IP Address Tracker
 
+This is a web application that allows users to track IP addresses and view their associated details such as location, timezone, and ISP. It utilizes the [IPGeolocation](https://ipgeolocation.io/) API to fetch IP address details.
+
 ---
 
-This is a web application that allows users to track IP addresses and view their associated details such as location, timezone, and ISP. It utilizes the [IPGeolocation](https://ipgeolocation.io/) API to fetch IP address details.
+- If you have adblock it will not work.
 
 ## Desktop preview
 
